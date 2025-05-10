@@ -1,0 +1,7 @@
+<!-- Include Babel -->
+<script src="https://unpkg.com/@babel/standalone"></script>
+
+<!-- Include your React code -->
+<script type="text/babel">
+  // Your React code here (like the KioskPOS component)
+</script>
